@@ -3758,10 +3758,10 @@ a.mgt-promo-block-link {
     float: right;
 }
 .mgt-header-block.text-white .mgt-header-block-title {
-    color: #ffffff;
+    color: #000000;
 }
 .mgt-header-block.text-white p {
-    color: #b8b8b8;
+    color: #898585;
 }
 .mgt-header-block.mgt-header-block-style-2 .mgt-header-block-title {
     font-weight: normal;
@@ -4074,13 +4074,13 @@ a.mgt-promo-block-link {
     display: block;
 }
 .mgt-icon-box.text-white .mgt-icon-box-content {
-    color: #b8b8b8;
+    color: #898585;
 }
 .mgt-icon-box.text-white h5 {
     color: #ffffff!important;
 }
 .mgt-icon-box.text-white h6 {
-    color: #b8b8b8!important;
+    color: #312d2d !important;
 }
 /* 18.5 Message Box */
 .mgt-message-box {
@@ -4481,7 +4481,7 @@ body #content .wpb_text_column .mgt-button:last-child {
 }
 .mgt-cta-block.white-text,
 .mgt-cta-block.white-text h5 {
-    color: #ffffff;
+    color: #000000;
 }
 .mgt-cta-block.white-text .mgt-cta-block-content a {
     color: #ffffff;
@@ -4499,7 +4499,7 @@ body #content .wpb_text_column .mgt-button:last-child {
     color: #828282;
 }
 .mgt-cta-block.white-text .mgt-cta-block-content {
-    color: #b8b8b8;
+    color: #898585;
 }
 .mgt-cta-block .mgt-button {
     margin-bottom: 0;
